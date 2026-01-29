@@ -101,6 +101,10 @@ These metrics better reflect real-world performance.
 - Model interpretability using feature importance  
 - Saving models for deployment  
 
+## Top 10 Important Features
+
+![Feature Importance](feature_importance.png)
+
 ---
 
 ## Note on Dataset Usage
